@@ -1,3 +1,1 @@
-# Embedded_Linux
-
-Hello!
+# Welcome to my Linux Repo!
