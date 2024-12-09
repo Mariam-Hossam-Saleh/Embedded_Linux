@@ -91,3 +91,11 @@ The relative path for the file mycv
 
 ## Bash Script Output :
 ![image15](bash-script-output.png)
+
+ ---
+
+ _**Author**_
+
+_**Mariam Hossam**_
+
+_**ITI student**_
