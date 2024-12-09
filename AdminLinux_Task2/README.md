@@ -47,3 +47,11 @@ It waits for additional input, acting as if the command isn't finished.
  
 ### Create Bash Shell Alias
  ![image9](screen9.png)
+
+  ---
+
+ _**Author**_
+
+_**Mariam Hossam**_
+
+_**ITI student**_
