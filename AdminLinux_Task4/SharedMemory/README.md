@@ -1,5 +1,5 @@
 <!--  -->
-# Linux day3 Questions: <img src="logo-linux.png" alt="Custom Icon" width="60" height="70" align="center"/>
+# Linux day4 Questions: <img src="logo-linux.png" alt="Custom Icon" width="60" height="70" align="center"/>
 
 
 ## 📜Table of Questions :
